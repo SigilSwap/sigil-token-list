@@ -4,8 +4,8 @@
         "Symbol": "SIGIL",
         "Decimals": 18,
         "BalanceOfConnected": 0,
-        "LogoURL": "https://raw.githubusercontent.com/GothTokenNetwork/goth-token-lists/main/goth-top-list/testnet/0x6110914Ad53FFb445579D49AD1C78592B6ca2B40/logo.png",
-        "Address": "0x6110914Ad53FFb445579D49AD1C78592B6ca2B40",
+        "LogoURL": "https://github.com/SigilSwap/sigil-token-list/blob/main/sigil-top-list/0x039259748FB8eAbeb2547009e225310579f5b0C3/logo.png?raw=true",
+        "Address": "0x039259748FB8eAbeb2547009e225310579f5b0C3",
         "LastUpdated": 1646821129
     },
     {
@@ -13,8 +13,8 @@
         "Symbol": "WAVAX",
         "Decimals": 18,
         "BalanceOfConnected": 0,
-        "LogoURL": "https://raw.githubusercontent.com/GothTokenNetwork/goth-token-lists/main/goth-top-list/testnet/0x5e6e168933f96E62d721982123c5a11B0e288440/logo.png?raw=true",
-        "Address": "0x5e6e168933f96E62d721982123c5a11B0e288440",
+        "LogoURL": "https://github.com/SigilSwap/sigil-token-list/blob/main/sigil-top-list/0x4e22AAED84BaB2664dCCA71758A63Ecd7223C4a9/logo.png?raw=true",
+        "Address": "0x4e22AAED84BaB2664dCCA71758A63Ecd7223C4a9",
         "LastUpdated": 1646821129
     }
 ]
